@@ -1,5 +1,12 @@
 # Durrmeyer-Beta Non-Parametric Regression & Approximation
 
+<div align="center">
+  <strong>Official Repository for the paper:</strong><br>
+  <i>"Moment Structure and Approximation Properties of Univariate and Bivariate Durrmeyer-Beta-Type Operators"</i><br>
+  Submitted to <b>Mathematics (MDPI)</b>.
+</div>
+<br>
+
 **A robust, non-parametric regression estimator and approximation framework based on the Durrmeyer-Beta operator.**
 
 This repository contains the official Python implementation and reproducible benchmarking suite for the Durrmeyer-Beta operator. The project bridges pure approximation theory with applied machine learning by deploying a variation-diminishing mathematical operator as a parameter-free regression estimator. It demonstrates superior structural integrity and outperformance against traditional time-series models (ARIMA), classical non-parametric approaches (Gaussian Kernel Smoother), and modern deep learning architectures (LSTM Autoencoders) under extreme industrial noise.
@@ -48,7 +55,7 @@ Ensure you have Python 3.9+ installed. You can install all necessary dependencie
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/Durrmeyer-Beta-Approximation.git](https://github.com/YourUsername/Durrmeyer-Beta-Approximation.git)
+git clone [https://github.com/metinzontul/Durrmeyer-Beta-Approximation.git](https://github.com/metinzontul/Durrmeyer-Beta-Approximation.git)
 cd Durrmeyer-Beta-Approximation
 
 # Install required packages
