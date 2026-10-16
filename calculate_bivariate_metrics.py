@@ -2,6 +2,7 @@
 """
 Script: calculate_bivariate_metrics.py
 Author: Seda Karateke
+Date:   2026 September
 Description: Calculates bivariate approximation accuracy metrics (RMSE, MAE, R², E_inf) 
              for the tensor-product Durrmeyer-Beta operator.
 
