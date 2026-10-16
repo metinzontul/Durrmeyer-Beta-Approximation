@@ -2,6 +2,7 @@
 """
 Script: generate_bivariate_approximation_figures.py
 Author: Seda Karateke
+Date:   2026 September
 Description: Generates professional bivariate approximation figures for the 
              tensor-product Durrmeyer-Beta operator.
 
