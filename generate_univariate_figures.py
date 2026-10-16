@@ -2,6 +2,7 @@
 """
 Script: generate_univariate_figures.py
 Author: Seda Karateke
+Date:   2026 September
 Description: Generates univariate numerical figures and accuracy tables for the 
              Durrmeyer-Beta operator approximation over [0,2].
 
